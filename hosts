@@ -1,0 +1,2 @@
+[testing_vm]
+ubunutu20 ansible_host=172.16.251.129 ansible_user=filin ansible_ssh_private_key_file=~/.ssh/ubuntuvm
